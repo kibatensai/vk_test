@@ -9,7 +9,7 @@
 ### There's a dummy `keyboard access` realization
 
 #### *Tab* - moves to the next element
-#### *Enter* - pens popup and different tab. And prints the emoji, which is selected with *Tab* at the moment
+#### *Enter* - opens popup and different tab. And prints the emoji, which is selected with *Tab* at the moment
 #### *Esc* - closes the popup
 
 ---
