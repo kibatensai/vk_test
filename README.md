@@ -6,7 +6,7 @@
 ### There's a dummy `keyboard access` realization
 #### *Tab* - move elements forward
 #### *Esc* - close the popup
-### *Enter* - prints the emoji, which is selected with *Tab* at the moment
+#### *Enter* - prints the emoji, which is selected with *Tab* at the moment
 
 #### :speech_balloon: An `Input` component includes the main textarea and a popup, handled with boolean flag in useState
 
