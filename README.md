@@ -22,7 +22,7 @@
 
 #### :star: `EmojiTemplate` is a component for all the emojis (contains infinite scroll for performance optimization)
 
-#### :cyclone: `RecentEmojis` is a component for recently used ones (25 max, updates the list if it is more than 25)
+#### :cyclone: `RecentEmojis` is a component for recently used ones (25 max, replaces last emoji with the new one in the list if it is more than 25)
 
 ---
 
