@@ -14,7 +14,7 @@
 
 ---
 
-#### :speech_balloon: An `Input` component includes the main textarea and a popup, handled with boolean flag in useState
+#### :speech_balloon: `Input` component includes the main textarea and a popup, handled with boolean flag in useState
 
 #### :smiley_cat: `EmojiPicker` component contains the main popup component with tabs for all emojis and recently used ones
 
