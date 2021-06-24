@@ -3,11 +3,15 @@
 ### Check the [deployed version here](https://kibatensai.github.io/vk_test/)
 ### :eyes: Looking forward for your feedback
 
-### There's a dummy `keyboard access` realization
-#### *Tab* - move elements forward
+---
 
+### There's a dummy `keyboard access` realization
+
+#### *Tab* - move elements forward
 #### *Enter* - Opens popup and different tab. And prints the emoji, which is selected with *Tab* at the moment
 #### *Esc* - close the popup
+
+---
 
 #### :speech_balloon: An `Input` component includes the main textarea and a popup, handled with boolean flag in useState
 
@@ -18,6 +22,8 @@
 #### :star: `EmojiTemplate` is a component for all the emojis (contains infinite scroll for performance optimization)
 
 #### :cyclone: `RecentEmojis` is a component for recently used ones (25 max, updates the list if it is more than 25)
+
+---
 
 ### I used following technologies here:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
