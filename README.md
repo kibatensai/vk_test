@@ -1,6 +1,7 @@
 ## A Vkontakte Test Task
 
-### Check the [deployed version here](https://kibatensai.github.io/vk_test/)
+### Check the :whale: [deployed version here](https://kibatensai.github.io/vk_test/) :whale:
+
 ### :eyes: Looking forward for your feedback
 
 ---
