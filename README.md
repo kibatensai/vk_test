@@ -1,4 +1,4 @@
-## A Vkontakte Test Task
+## :blue_heart: A Vkontakte Test Task :blue_heart:
 
 ### Check the :whale: [deployed version here](https://kibatensai.github.io/vk_test/) :whale:
 
