@@ -1,0 +1,33 @@
+.input_container {
+  position: relative;
+  width: 290px;
+  height: 36px;
+
+  &__button {
+    position: absolute;
+    right: 8px;
+    top: 8px;
+    border: none;
+    display: flex;
+    align-items: center;
+    background: none;
+    cursor: pointer;
+  }
+
+  &__epicker_corner {
+    &:before {
+      position: absolute;
+      content: "";
+      bottom: 41.5px;
+      right: 13.5px;
+      transform: rotate(45deg);
+      width: 8px;
+      height: 8px;
+      background: #ebeef2;
+      border-bottom: 1px solid #c5d0db;
+      border-right: 1px solid #c5d0db;
+      border-bottom-right-radius: 3px;
+      z-index: 1;
+    }
+  }
+}

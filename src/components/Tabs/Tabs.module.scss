@@ -1,0 +1,26 @@
+.tabs_component_container {
+  min-height: 100%;
+  margin-bottom: -36px;
+}
+
+.tabs_items_block {
+  position: sticky;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  background-color: #ebeef2;
+  height: 36px;
+  &__item {
+    display: flex;
+    align-items: center;
+    font-weight: normal;
+    cursor: pointer;
+    user-select: none;
+    background-color: #ebeef2;
+    padding: 0 8px;
+    &_active {
+      background-color: #ffffff;
+      cursor: auto;
+    }
+  }
+}
